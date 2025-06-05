@@ -557,6 +557,8 @@ nav {
 
     .plans {
         display: flex;
+        justify-content: space-between;
+        align-items: center;
         width: 100%;
         position: relative;
     }
@@ -896,6 +898,7 @@ nav {
     .footer__columns {
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
 
     .footer__column {
