@@ -209,7 +209,7 @@ nav {
     align-items: center;
     transition: all 300ms ease;
     opacity: 0;
-    transform: translateX(1024px);
+    transform: translateX(300%);
     z-index: 4;
 }
 
