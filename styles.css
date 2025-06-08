@@ -53,6 +53,11 @@ li {
     list-style: none;
 }
 
+#landing {
+    position: relative;
+    overflow-x: hidden;
+}
+
 section {
 padding: 0 32px;
 }
@@ -194,7 +199,6 @@ nav {
 
 .menu__backdrop {
     position: absolute;
-    background-color: lightblue;
     top: 0;
     left: 0;
     right: 0;
