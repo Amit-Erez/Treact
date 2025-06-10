@@ -409,7 +409,7 @@ nav {
 
     #features {
         position: relative;
-        /* overflow: hidden; */
+        overflow: hidden;
     }
 
     .blob__wrapper {
@@ -683,11 +683,6 @@ nav {
     
     */
 
-    /* #pricing {
-        position: relative;
-    } */
-
-
     #pricing .row {
         display: flex;
         flex-direction: column;
@@ -706,6 +701,7 @@ nav {
         align-items: center;
         width: 100%;
         position: relative;
+        overflow: hidden;
     }
 
     .plan__blob--wrapper {
